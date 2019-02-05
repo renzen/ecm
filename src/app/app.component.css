@@ -1,0 +1,46 @@
+.container-1600{
+    width: 100%;
+    padding: 5px 60px 5px 60px;
+    background-color: #ffffff;
+}
+.floatleft{
+    float: left;
+    padding: 12px 60px 20px 76px;
+}
+.floatright{
+    float: right;
+    padding: 12px 81px 20px 60px;
+
+}
+.floatright a, .floatleft a{
+    color: #ffffff;
+}
+.home-img-bg {
+    background-image: url('/assets/images/banner1b.jpg');
+    min-height: 463px;
+    background-position: 100% 40%;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.faqs-img-bg {
+    background-image: url('/assets/images/about-us-bg2.jpg');
+    min-height: 463px;
+    background-position: 100% 40%;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.contact-img-bg {
+    background-image: url('/assets/images/banner1_back.jpg');
+    min-height: 463px;
+    background-position: 100% 40%;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.download-img-bg {
+    background-image: url('/assets/images/download_app.jpg');
+    min-height: 463px;
+    background-position: 100% 40%;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+

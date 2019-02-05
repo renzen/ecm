@@ -1,0 +1,35 @@
+
+/*Phone Number Input "hack"*/
+/* .phone-number .col-sm-2::after, .address .col-sm-2::after{
+    content: "-";
+    position:absolute;
+       right: 5px;
+       color: black;
+       border: 0px solid;
+       top: 5px;
+   } */
+   
+   /* .phone-number .col-sm-6, .address .col-sm-6{
+       width:25%;
+   } */
+   .formSubmit label
+   {
+         text-align: right;
+   }
+    .col-sm-5, .col-sm-8, .col-sm-6{
+    padding-right: 0px;
+    padding-left: 0px;
+ }
+
+ .col-sm-3, .col-sm-2 {
+    padding-right: 10px;
+    padding-left: 0px;
+ }
+
+ .spanred{
+     color:red;
+ }
+
+ select:focus option.holder {
+    display: none;
+  }
